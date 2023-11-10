@@ -18,12 +18,11 @@ body {
   }
 
   {
-    /* Background pattern from Toptal Subtle Patterns */
+   
        height: 400px;
        width: 100%;
        background-image: 
            url("https://www.algar.com.br/wp-content/uploads/2019/11/mercado-de-tecnologia.jpg"),
            ;
-       background-repeat: no-repeat, no-repeat;
-       background-position: right, left; 
+      
     }
