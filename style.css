@@ -1,11 +1,9 @@
-.cabecalho {
-    background-color: blue;
+.header {
+    background-color: rgb(151, 6, 127);
     color: rgb(212, 121, 121);
      
 }
-body {
-    background-color: lightblue;
-  }
+
   
   h1 {
     color: white;
