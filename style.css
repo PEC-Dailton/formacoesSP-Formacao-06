@@ -3,6 +3,17 @@
     color: rgb(212, 121, 121);
      
 }
+
+.cabecalho-imagem {
+  width: 18%;
+  left: 10px;
+}
+
+
+
+
+
+
 body {
     background-color: rgb(184, 231, 247);
   }
