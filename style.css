@@ -3,8 +3,8 @@
     color: white;
     display: flex;
     justify-content: space-around;
-    width: 25%;
-  left: 25%;
+    width: 150%;
+  left: 100%;
 }
 
 .cabecalho-imagem {
