@@ -1,9 +1,11 @@
-.header {
-    background-color: rgb(151, 6, 127);
-    color: rgb(145, 121, 212);
+.cabecalho {
+    background-color: blue;
+    color: rgb(212, 121, 121);
      
 }
-
+body {
+    background-color: lightblue;
+  }
   
   h1 {
     color: white;
