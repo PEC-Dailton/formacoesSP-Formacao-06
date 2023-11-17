@@ -11,29 +11,3 @@
 
 
 
-
-
-
-body {
-    background-color: rgb(184, 231, 247);
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
-
-  {
-   
-       height: 400px;
-       width: 100%;
-       background-image: 
-           url("https://www.algar.com.br/wp-content/uploads/2019/11/mercado-de-tecnologia.jpg"),
-           ;
-      
-    }
