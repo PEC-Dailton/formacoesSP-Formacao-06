@@ -33,5 +33,9 @@
 .rodape{
  background-color: brown;
  text-align: center;
+}
 
+.rodape-imagem{
+  width: 10%;
+  height: 60px;
 }
